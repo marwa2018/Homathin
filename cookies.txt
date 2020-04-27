@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.future2030.net	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1587996589|JlvE0Oto4aSw
+www.future2030.net	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=euw3"
+www.future2030.net	TRUE	/	FALSE	1999999999	hs	1057632190
+www.future2030.net	TRUE	/	FALSE	1999999999	svSession	f17e86121fadfef20e32f0891d981c4986ba0b9e21d4b832717d0ccb1545c9e35c2eaf4bc1c1f0e516689f86e3b712141e60994d53964e647acf431e4f798bcd02b07e6b039774fca0cd8e4bae45983a6163b797d6f4b2e43126d4e84b5d9448
+
